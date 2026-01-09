@@ -1,0 +1,6 @@
+datetime 
+pandas
+feedparser
+requests
+mysql-connector-python
+
